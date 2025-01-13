@@ -1,0 +1,170 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0px;
+    background-color: black;
+	background-repeat: no-repeat;
+	height: 3200px;
+	width: 100%;
+}
+.main{
+	height: 100%;
+	width: 100%;
+}
+.first{
+	height: 100px;
+	max-width: 100%;
+	margin-top: 40px;
+	margin-left: 80px;
+}
+.logo{
+	height: 60px;
+	width: 150px;
+	color: aliceblue;
+	font-family: "VT323";
+	font-size: 35px;
+	float: left;
+	cursor: default;
+	margin-left: 80px;
+	margin-top: 10px
+}
+.nav{
+	height: 30px;
+	width: 590px;
+	float: left;
+
+	margin-left: 650px;
+	padding-top: 7px;
+}
+.buton{
+	float: left;
+	color: aliceblue;
+	margin-left: 87px;
+	font-family: "VT323";
+	font-size: 19px;
+	cursor: default;
+	transition: 1s
+}
+.nav2{
+	height: 40px;
+	width: 140px;
+	background-color:#FFB000;
+	float: left;
+	border-radius: 8px;
+	
+}
+.stlearn{
+	height: 40px;
+	width:130px;
+	color: black;
+	margin-left: 16px;
+	
+	font-family: "VT323";
+	font-size: 18px;
+	
+	cursor: default;
+	margin-top: 10px
+}
+a{text-decoration: none;
+ color: aliceblue
+}
+
+.sec1{
+	
+	height: 1100px;
+	width: 800px;
+	float: left;
+	margin-left: 200px
+}
+.sec2{
+
+	height: 1100px;
+	width: 800px;
+	margin-left: 900px
+}
+.lol{
+	
+	height: 300px;
+	width: 800px
+}
+.cir{
+	background-color: aliceblue;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	float: left
+}
+.rate{
+	height: 60px;
+	width: 70px;
+	
+	float: left;
+	margin-left: 130px;
+	margin-top: 1px
+}
+.line{
+	background-color: aliceblue;
+	height: 60px;
+	width: 1px;
+	margin-left: 20px;
+	float: left
+}
+.less{
+	height: 90px;
+	width: 110px;
+	
+	float: left;
+	margin-left: 20px
+}
+.learn{
+	height: 90px;
+	width: 110px;
+	
+	margin-left: 398px;
+	padding-top: 0.1px
+}
+.certi{
+	background-color: aliceblue;
+	border: solid 2px #FFB000;
+	height: 150px;
+	width: 400px;
+	margin-left: 210px;
+	margin-top: 70px;
+	box-shadow: 3px 0px 13px 1px aliceblue;
+}
+.line2{
+	height: 1px;
+	width: 680px;
+	background-color: aliceblue;
+	margin-left: 20px;
+	margin-top: 50px
+}
+.box{
+	background-color: aliceblue;
+	height: 80px;
+	width: 600px;
+	margin-top: 80px;
+	margin-left: 20px;
+	border-radius: 4px;
+}
+.gb{
+	background-color: #FFB000;
+	height: 40px;
+	width: 100%;
+	text-align: center;
+	padding-top: 15px;
+	font-family: 'Poppins SemiBold';
+	cursor: pointer;
+	margin-top: 1850px;
+	
+}
+a{
+	text-decoration: none;
+	color: aliceblue;
+}
+.gb:hover{
+	color: black
+}
+.gb a:hover{
+	color: black
+}

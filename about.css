@@ -1,0 +1,182 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0px;
+	
+   
+}
+.main{
+	height: 100%;
+	width: 100%;
+    background-color: black;
+	background-repeat: no-repeat;
+	height: 2100px;
+	width: 100%;
+}
+.first{
+	height: 100px;
+	max-width: 100%;
+	margin-top: 40px;
+	margin-left: 80px;
+
+}
+.logo{
+	height: 60px;
+	width: 150px;
+	color: aliceblue;
+	font-family: "VT323";
+	font-size: 35px;
+	float: left;
+	cursor: default;
+	margin-left: 80px;
+	margin-top: 10px
+}
+.nav{
+	height: 30px;
+	width: 590px;
+	float: left;
+
+	margin-left: 650px;
+	padding-top: 7px;
+}
+.buton{
+	float: left;
+	color: aliceblue;
+	margin-left: 87px;
+	font-family: "VT323";
+	font-size: 19px;
+	cursor: default;
+	transition: 1s
+}
+.buton:hover{
+	color: aliceblue;
+	transform: scale(1.1)
+}
+.nav2{
+	height: 40px;
+	width: 140px;
+	background-color:#FFB000;
+	float: left;
+	border-radius: 8px;
+}
+.stlearn{
+	height: 40px;
+	width:130px;
+	color: black;
+	margin-left: 16px;
+	
+	font-family: "VT323";
+	font-size: 18px;
+	
+	cursor: default;
+	margin-top: 10px
+}
+a{
+	text-decoration: none;
+	color: aliceblue
+}
+.line{
+	height: 1px;
+	width: 80%;
+	background-color: aliceblue;
+	margin-left: 150px
+}
+.missi{
+	
+	height: 100px;
+	width: 40%;
+	margin-left: 390px;
+	margin-top: 88px
+}
+.box{
+	
+	height: 200px;
+	width: 90%;
+	margin-left: 300px;
+	margin-top: 70px
+}
+.b1{
+	background-color: #ffb000;
+	height: 200px;
+	width: 350px;
+	float: left;
+	margin-left: 60px
+}
+.box2{
+	
+	height: 200px;
+	width: 50%;
+	margin-left: 540px;
+}
+.b2{
+	background-color: #ffb000;
+	height: 200px;
+	width: 350px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 40px
+}
+.whitebox{
+	background-color: aliceblue;
+	height: 400px;
+	width: 100%;
+	margin-top: 150px
+}
+.explo{
+	height: 34px;
+	width: 170px;
+	background-color: #ffb000;
+	float: left;
+	margin-top: 170px;
+	margin-left: 50px;
+	font-family: "VT323";
+	border-radius: 7px;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 8px;
+	cursor: pointer;
+	transition: 1s;
+}
+.explo:hover{
+	transform: scale(1.1);
+	box-shadow: 5px 0px 13px 0px black; 
+}
+.con{
+	height: 280px;
+	width: 100%;
+	margin-top: 60px;
+	margin-left: 30px
+}
+.bor1{
+	height: 280px;
+	width: 25%;
+	float: left;
+	margin-left: 20px
+}
+.imag{
+	height: 40px;
+	width: 40px;
+	float: left;
+	margin-left: 1px;
+	margin-top: 20px;
+}
+.bor2{
+	height: 280px;
+	width: 20%;
+	float: left;
+		margin-left: 260px
+
+}
+.bor3{
+	height: 280px;
+	width: 15%;
+	float: left;
+	
+
+}
+.bor4{
+	height: 280px;
+	width: 20%;
+	float: left;
+
+}

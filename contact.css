@@ -1,0 +1,273 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0px;
+	
+   
+}
+.main{
+	height: 100%;
+	width: 100%;
+    background-color: black;
+	background-repeat: no-repeat;
+	height: 1200px;
+	width: 100%;
+}
+.first{
+	height: 100px;
+	max-width: 100%;
+	margin-top: 40px;
+	margin-left: 80px;
+
+}
+.logo{
+	height: 60px;
+	width: 150px;
+	color: aliceblue;
+	font-family: "VT323";
+	font-size: 35px;
+	float: left;
+	cursor: default;
+	margin-left: 80px;
+	margin-top: 10px
+}
+.nav{
+	height: 30px;
+	width: 590px;
+	float: left;
+
+	margin-left: 650px;
+	padding-top: 7px;
+}
+.buton{
+	float: left;
+	color: aliceblue;
+	margin-left: 87px;
+	font-family: "VT323";
+	font-size: 19px;
+	cursor: default;
+	transition: 1s
+}
+.buton:hover{
+	color: aliceblue;
+	transform: scale(1.1)
+}
+.nav2{
+	height: 40px;
+	width: 140px;
+	background-color:#FFB000;
+	float: left;
+	border-radius: 8px;
+}
+.stlearn{
+	height: 40px;
+	width:130px;
+	color: black;
+	margin-left: 16px;
+	
+	font-family: "VT323";
+	font-size: 18px;
+	
+	cursor: default;
+	margin-top: 10px
+}
+.form {
+  background-color:aliceblue;
+  height: 780px;
+  width: 1325.22px;
+  margin-left: 260px;
+  margin-top: 120px;
+  float: left;
+  border-radius: 3px 3px 32px 32px;
+  
+}
+
+.bo{
+	 background-color:gray;
+  height: 780px;
+  width: 662.61px;
+  border-radius: 3px 0px 0px 28px;
+  background-color: #fefefe;
+  background-image: linear-gradient(90deg, aliceblue 80%, #c5c9c9 190%);
+
+	float: left
+  
+}
+
+.con{
+	
+	height: 500px;
+	width: 600px;
+	margin-left: 60px
+}
+.loc{
+	
+	height: 80px;
+	margin-top: 90px
+}
+.inm{
+	height: 80px;
+	width: 80px;
+	float: left;
+	margin-top: 13px;
+	margin-left: 4px;
+}
+.cal{
+	
+	height: 80px;
+	margin-top:40px;
+}
+.imm{
+	height: 80px;
+	width: 80px;
+	float: left;
+	margin-top: 10px
+	
+}
+.mai{
+	
+	height: 80px;
+	margin-top: 50px;
+	margin-left: 3px
+	
+}
+.img{
+	height: 80px;
+	width: 80px;
+	float: left;
+	margin-top: 10px
+}
+.line{
+	background-color: silver;
+	height: 1px;
+	width: 600px;
+	margin-top: 40px
+}
+.icons{
+	
+	height: 40px
+}
+.soci{
+	float: left;
+	margin-left: 40px;
+	margin-top: 10px
+}
+.boo{
+	 background-color:#FFB000;
+  height: 780px;
+  width: 662.61px;
+  border-radius: 3px 0px 0px 32px;
+	border-radius: 0px 3px 28px 0px;
+	
+	float: left
+}
+
+.fomii{
+	
+	height: 590px;
+	width: 600px;
+	margin-left: 70px;
+	margin-top: 40px
+}
+.lab{
+	font-family: "Poppins Medium"
+}
+.inp{
+	height: 40px;
+	width: 450px;
+	margin-top: 20px;
+	border: 0px;
+}
+.mess{
+	font-family: "Poppins Medium";
+}
+.area{
+	height:100px;
+	width: 450px
+}
+.sent{
+	background-color: black;
+	height: 34px;
+	width: 190px;
+	border-radius: 7px;
+	font-family: 'Poppins Light';
+	color: aliceblue;
+	text-align: center;
+	padding-top: 12px;
+	margin-left: 70px;
+	margin-top: 10px
+}
+.sec{
+	height: 500px;
+	width: 100%;
+}
+
+.seo{
+	background-color: #FFB000;
+	height: 400px;
+	width:100%;
+	margin-top: 830px
+}
+.sub{
+	background-color: black;
+	height: 32px;
+	width: 150px;
+	border-radius: 10px;
+	color: aliceblue;
+	font-family: "VT323";
+	text-align:center;
+	padding-top: 10px;
+	font-size: 20px;
+	margin-left: 880px;
+	margin-top: 70px
+}
+.black{
+	background-color: black;
+	height: 400px;
+	width: 100%;
+}
+a{
+	text-decoration: none;
+	color: aliceblue;
+}
+iframe{
+	margin-top: 10px;
+}
+.con{
+	height: 280px;
+	width: 100%;
+	padding-top: 40px
+}
+.bor1{
+	height: 280px;
+	width: 25%;
+	float: left;
+	margin-left: 20px
+}
+.imag{
+	height: 40px;
+	width: 40px;
+	float: left;
+	margin-left: 1px;
+	margin-top: 20px;
+}
+.bor2{
+	height: 280px;
+	width: 20%;
+	float: left;
+		margin-left: 260px
+
+}
+.bor3{
+	height: 280px;
+	width: 15%;
+	float: left;
+	
+
+}
+.bor4{
+	height: 280px;
+	width: 20%;
+	float: left;
+
+}
